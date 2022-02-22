@@ -11,7 +11,7 @@ This course is of interest to anyone who wants to be a cloud practitioner - clou
 There are no hard requirements needed to be able to take this course other than basic computer literacy, and a foundation level understanding of Cloud Computing.
 
 ## Syllabus
-* [WEEK 1 Understanding the Benefits of Containers](./Week1/README.md)
+### [WEEK 1 Understanding the Benefits of Containers](./Week1/README.md)
 In this module, you will learn about the concept, features, use cases, and benefits of containers, and the difference between containers and virtual machines. You will learn about the term "Docker" and the several different uses of this term. One of the most used tools from Docker is the command line interface (CLI). We will introduce you to some of the more commonly used Docker CLI commands and how they work.Containers and images are two distinct entities, and in this module, you will learn about the differences between containers and images. You will learn how to build container images using Dockerfiles.Finally, you will learn about container registries and the functionalities they provide to help developers work more securely and productively.At the end of the module, you will do a hands-on exercise in which you will write a Dockerfile, build an image and run it as a container, and store the image in a registry.
 
 ### [WEEK 2 Understanding Kubernetes Architecture](./Week2/README.md)
