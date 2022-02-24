@@ -17,3 +17,6 @@ In this module, you will learn about the concept, features, use cases, and benef
 * Create a Container Registry namespace
 * Build an image using a Dockerfile and push it to IBM Cloud Container Registry
 * Pull an image from Docker Hub and run it as a container using Docker
+
+## Laboratory
+* [Hands-on Lab: Introduction to Containers, Docker and IBM Cloud Container Registry](./files/labs.cognitiveclass.ai.pdf)
