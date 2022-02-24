@@ -15,3 +15,6 @@ In this module, you will learn what container orchestration is and how it helps 
 * Create a Kubernetes deployment
 * Create a Kubernetes pod
 * Use the kubectl CLI
+
+## Laboratory
+* [Hands-on Lab: Introduction to Kubernetes](./files/labs.cognitiveclass.ai.pdf)
