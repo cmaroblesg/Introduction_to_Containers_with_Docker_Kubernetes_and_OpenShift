@@ -13,3 +13,6 @@ In this module, you will learn about some key concepts such as ReplicaSets, auto
 * Use a ConfigMap to store application configuration
 * Apply rolling updates to an application
 * Scale an application with a ReplicaSet
+
+## Laboratory
+* [Hands-on Lab: Scaling and Updating Applications](./files/labs.cognitiveclass.ai.pdf)
