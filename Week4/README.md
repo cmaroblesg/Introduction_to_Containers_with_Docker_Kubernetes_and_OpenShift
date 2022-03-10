@@ -13,3 +13,6 @@ In this module, you will learn about the growing Kubernetes ecosystem and be int
 * Build and deploy an application using s2i
 * Use the OpenShift web console
 * Use the oc CLI
+
+## Readings
+* [Hands-on Lab: Introduction to OpenShift](./files/labs.cognitiveclass.ai.pdf)
